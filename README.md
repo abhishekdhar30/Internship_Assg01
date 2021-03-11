@@ -9,8 +9,8 @@ Implementation: First step- We will calculate sum of n terms by mathematics form
                 Third step: We will store sum of given n-1 terms in the declared variable.
                 Fourth step: Then,we will print the difference of sum of n terms and the sum of n-1 stored in the variable.
 
-Time Complexity:O(1) which is constant
+Time Complexity:O(1)
 
-Space complexity:O(1) which is constant
+Space complexity:O(1)
                           
                 
