@@ -5,8 +5,11 @@ Problem Statement:Write a console Application in C++ where first line of input h
 Logic: As "n" is given in the question,we will take sum of n terms by using formula (n*(n-1))/2 and subtract it with the sum of given n-1 terms and that will be the missing no
 
 Implementation: First step- We will calculate sum of n terms by mathematics formula (n*(n-1))/2 
+
                 Second step: We will create a variable and initialize it with 0.
+                
                 Third step: We will store sum of given n-1 terms in the declared variable.
+                
                 Fourth step: Then,we will print the difference of sum of n terms and the sum of n-1 stored in the variable.
 
 Time Complexity:O(1)
